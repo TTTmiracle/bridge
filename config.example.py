@@ -1,1 +1,4 @@
-DEEPSEEK_API_KEY = "your-deepseek-api-key-here"
+PROVIDER = "openai"  # "openai" (any OpenAI-compatible API) or "anthropic" (native Claude API)
+BASE_URL = "https://api.deepseek.com"
+MODEL = "deepseek-v4-flash"
+API_KEY = "your-api-key-here"
